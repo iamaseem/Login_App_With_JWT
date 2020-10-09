@@ -1,4 +1,4 @@
 module.exports = {
-  mongoURI: "mongodb+srv://user:user1234@cluster0.ud5pe.mongodb.net/mern-auth",
+  mongoURI: "PUT_YOUR_SECRET_HERE",
   secretOrKey: "secret",
 };
